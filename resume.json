@@ -7,7 +7,9 @@
         "awardList":"更多信息",
         "workList":"个人作品",
         "aboutme":"自我介绍"},
-        "avatar":{"hidden":false},
+        "avatar":{
+            "src":"https://avatars.githubusercontent.com/u/13184996?s=400&u=8a020c3c4dabf70efbeca4aef396d18a0e975d2a&v=4",
+            "hidden":false},
         "profile":{
             "name":"陈来（Gavin Chen）",
             "email":"laihub@163.com",
