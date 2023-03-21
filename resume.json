@@ -101,4 +101,68 @@
         ],
         "projectList":[
             {
-                "project_name":"CallMute 功能开发","project_role":"项目负责人","project_time":"2022.11 - 2023.03","project_desc":"在Window11 上， 实现 ZOOM 软件 Mute/UnMute 功能和系统联动，保持实时同步，用可以可以在软件和系统界面控制和显示Mute 的状态，以及在 HID 和蓝牙耳机硬件上的控制也能同时相应。","project_content":"1. 负责项目前期调研。\n2. 负责项目功能设计开发。\n3. 负责和UI功能对接。","dataIndex":0},{"project_name":"DeepInsight","project_role":"可视分析负责人","project_time":"2018.07 - 2019.04 / 2020.07 - 至今","project_desc":"DeepInsight 是蚂蚁集团自主研发的自助式 BI 数据洞察分析平台，面向企业分析人员、业务人员和开发人员，帮助蚂蚁集团实现精细化运营。","project_content":"BI 平台工具核心部分是报表制作，也就是通过数据连接、可视化配置形成图表物料之后，通过拖拽方式进行页面编排，最终形成报表页面进行发布的过程。\n1. 主导开放能力建设，拉通产品、设计建设和扩展可视化图形，提升丰富度\n2. 产品体验优化，尤其是对 ECharts 的体验顽疾进行攻克\n3. 主导可视化能力建设：业务标准化图表库建设(通用组件设计和开发经验丰富)、促进数据分析能力增强等可视化一体化建设"},{"project_name":"G2、G2Plot","project_role":"核心开发者","project_time":"2019 - 至今","project_desc":"G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库","project_content":"AntV 可视化建设，赋能整个蚂蚁和阿里集团统计可视化分析相关业务。负责 AntV 系列: AntV 官网、G 渲染引擎、 G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作。"}],"workList":[],"aboutme":{"aboutme_desc":"我是一位有十年 VoIP 软件开发相关工作经验的专家，擅长实时语音采集、播放和声音处理调优等工作。在我长期的职业生涯中，我一直致力于解决各种音频问题，并使用C++开发了许多音频相关功能，例如音频水印和同声传译等。我的热情和专业知识为我的团队带来了许多成功的项目，并帮助了我们的客户实现了卓越的语音交流体验。如果您正在寻找一个经验丰富的 VoIP 软件开发人员，我相信我会是一个出色的选择。\n    "},"theme":{"color":"#2f5785","tagColor":"#8bc34a"}}
+                "project_name":"CallMute 功能开发",
+                "project_role":"项目负责人",
+                "project_time":"2022.11 - 2023.03",
+                "project_desc":"在Window11 上， 实现 ZOOM 软件 Mute/UnMute 功能和系统联动，保持实时同步，用可以可以在软件和系统界面控制和显示Mute 的状态，以及在 HID 和蓝牙耳机硬件上的控制也能同时相应。",
+                "project_content":"1. 负责项目前期调研。\n2. 负责项目功能设计开发。\n3. 负责和UI功能对接。",
+                "dataIndex":0
+            },
+            {
+                "project_name":"多会议实例联动",
+                "project_role":"核心开发者",
+                "project_time":"2021.07 - 2022.4",
+                "project_desc":"实现一个客户端上多个会议同时进行，并灵活切换",
+                "project_content":"1. 实现一个client上多个会议实例上音频相互传输机制 \n2. 负责底层音频部分业务功能调整开发。\n3. 负责测试调优。"
+
+            },
+            {
+                "project_name":"同声传译机制",
+                "project_role":"核心开发者",
+                "project_time":"2019.12 - 2021.4",
+                "project_desc":"一个会议中允许存在不同语言的翻译官加会，实时翻译会议内容，用户可以根据实际情况选择指定语言channel",
+                "project_content":"1. 实现多channel 声音控制，翻译官讲话压低背景声音的等逻辑功能 \n2. 解决实际客户使用过程中出现的各种问题。\n3. 负责测试调优。"
+            },
+            {
+                "project_name":"音频水印功能",
+                "project_role":"项目负责人",
+                "project_time":"2018.3 - 2018.10",
+                "project_desc":"实现播放声音嵌入水印功能，定位偷录客户端，保证会议安全",
+                "project_content":"1. 实现水印算法落地。\n 2. 水印界面客户端开发。\n 3. 功能测试调优"
+            },
+            {
+                "project_name":"机顶盒视频通信系统预言",
+                "project_role":"项目负责人",
+                "project_time":"2017.3 - 2018.3",
+                "project_desc":"实现机顶盒端到端通信",
+                "project_content":"1.  负责 WebRTC 二次开发 \n 2.  实现机顶盒上视频语音实时通信系统 \n 3. 功能测试调优"
+            },
+            {
+                "project_name":"低端话机",
+                "project_role":"核心开发人员",
+                "project_time":"2014.3 - 2014.7",
+                "project_desc":"一款低端的 VoIP 网络话机 ",
+                "project_content":"1. 测试各个音频模块是否符合实际使用要求 \n 2. 参与相关问题反馈讨论对接"
+            },
+            {
+                "project_name":"gxp3275 项目 && gxp2200 项目",
+                "project_role":"核心开发人员",
+                "project_time":"2012.3 - 2014.4",
+                "project_desc":"两款 Android 网络电话终端 ",
+                "project_content":"1. 音频模块的添加，包括编解码，AEC，AGC，降噪 \n 2.   音频调试，DTMF， RFC2833. \n 3.  使用 C++/C 实现了录音功能功能，EQU 模块，Tone 生成，rtcp 等 \n 4.  声音调试，包括响度，音效，失真，自激等"
+            }
+            
+        ],
+
+        "workList": [],
+        "aboutme": {
+            "aboutme_desc": "🌱 多年大型项目经历，专注于实时通信领域音频开发"
+        },
+        "theme": {
+            "color": "#2f5785",
+            "tagColor": "#8bc34a"
+        }
+}
+
+
+            
