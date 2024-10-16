@@ -154,8 +154,7 @@
       "project_name": "Audio Watermarking Feature",
       "project_role": "Project Leader",
       "project_time": "2018.3 - 2018.10",
-      "project_desc": "Implement the embedding of watermarks in playback sound to locate clients who secretly record, ensuring the security of the conference. This feature was initially requested by Uber and played a huge role in a conference leak involving Uber. The parsing
- tool I developed successfully identified the ID of the leaker.",
+      "project_desc": "Implement the embedding of watermarks in playback sound to locate clients who secretly record, ensuring the security of the conference. This feature was initially requested by Uber and played a huge role in a conference leak involving Uber. The parsing tool I developed successfully identified the ID of the leaker.",
       "project_content": "1. Implement the landing of watermark algorithms.\n2. Develop the watermark interface client.\n3. Function testing and tuning.\n4. Develop a watermark parsing tool."
     },
     {
