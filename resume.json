@@ -61,12 +61,12 @@
       "work_time": [
         "2023.10~2024.2"
       ],
-      "company_name": "Mi Rui Technology Co., Ltd.",
+      "company_name": "Meari Technology Co., Ltd.",
       "department_name": "Embedded",
       "work_desc": "1. Responsible for the development of underlying applications for multiple IPC cameras, implementing and interfacing with the upper layer based on different chip platforms.\n2. Completed AAC code function pruning and video quality positioning during the period."
     },
     {
-      "company_name": "Soft Vision (Hangzhou) Co., Ltd. [ZOOM]",
+      "company_name": " Zoom Video Communications, Inc.",
       "department_name": "Audio",
       "work_time": [
         "2018.03",
@@ -75,7 +75,7 @@
       "work_desc": "1. Responsible for the maintenance of underlying audio devices.\n2. Responsible for the design and development of audio-related changes involved in video conferencing feature development.\n3. Responsible for the maintenance of audio-related functions in server gateways.\n4. Responsible for the basic development and research of Android ZOOM ROOM.\n5. Responsible for ensuring the smooth and stable audio of online video conferences, responding to customer issues at any time.\n6. Completed a large number of tasks and bugs, with the most code submissions in the department."
     },
     {
-      "company_name": "Deng Hong Technology",
+      "company_name": "Closeli Technology Co., Ltd.",
       "department_name": "Multimedia Department",
       "work_time": [
         "2017.03",
@@ -84,7 +84,7 @@
       "work_desc": "1. Responsible for pre-research of video conferencing systems.\n2. Implemented end-to-end network communication.\n3. Simple basic implementation of conference signaling."
     },
     {
-      "company_name": "Youpai Cloud Technology Co., Ltd.",
+      "company_name": "Upyun Technology Co., Ltd.",
       "department_name": "RTC",
       "work_time": [
         "2016.09",
@@ -97,7 +97,7 @@
         "2012.06",
         "2016.09"
       ],
-      "company_name": "Trend Network Technology Co., Ltd. Hangzhou Branch",
+      "company_name": "Grandstream Technology Co., Ltd.",
       "department_name": "Multimedia Department",
       "work_desc": "1. Responsible for VoIP phone audio data processing.\n2. Responsible for AGC, AEC, noise reduction and other audio sound effect testing and docking work.\n3. Responsible for the integration and development of WebRTC-related projects.\n4. Responsible for testing and optimizing the audio quality of multiple company phones.\n5. During the internship period, I created an audio laboratory on my own, often working alone until the early morning. After various comparative tests and repeated verifications, I discovered a major issue with the response curve differences of the same model of handles. The company quickly contacted the supplier and obtained rectification. Later, I discovered a hardware problem for a company's product before mass production, saving the company huge losses."
     }
